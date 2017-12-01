@@ -14,7 +14,7 @@ var express = require('express'),
 var app = express();
  
 var visual_recognition = new VisualRecognitionV3({
-  api_key: 'e32318089463a95fd93f5f580de47684505affc3',
+  api_key: 'INSIRA A API KEY AQUI',
   version_date: VisualRecognitionV3.VERSION_DATE_2016_05_20
   });
 
