@@ -1,0 +1,14 @@
+{
+  "VCAP_SERVICES": {
+    "cloudantNoSQLDB": [{
+      "name": "Cloudant_NoSQL_service",
+      "label": "cloudantNoSQLDB",
+      "plan": "Shared",
+      "username": "f3269486-b14f-4b63-89c8-8f34a4e78fe9-bluemix",
+      "password": "84603c2bc70ffd50810a200f863e72152bfc3c4ca19ccfc1b7c65d318f18a9a2",
+      "host": "f3269486-b14f-4b63-89c8-8f34a4e78fe9-bluemix.cloudant.com",
+      "port": 443,
+      "url": "https://f3269486-b14f-4b63-89c8-8f34a4e78fe9-bluemix:84603c2bc70ffd50810a200f863e72152bfc3c4ca19ccfc1b7c65d318f18a9a2@f3269486-b14f-4b63-89c8-8f34a4e78fe9-bluemix.cloudant.com"
+    }]
+  }
+}

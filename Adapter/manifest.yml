@@ -1,0 +1,11 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: VR Endpoint
+  host: vr-endpoint
+  disk_quota: 1024M
+  services:
+  - Visual Recognition-dd2
+  - VR Endpoint-cloudantNoSQLDB
