@@ -35,9 +35,11 @@ local.properties
 node_modules/
 npm-debug.log
 yarn-error.log
-vcap-local.json
-package-lock.json
-manifest.yml
+
+# VR Adapter
+../Adapter/vcap-local.json
+../Adapter/package-lock.json
+../Adapter/manifest.yml
 
 # BUCK
 buck-out/
